@@ -34,3 +34,7 @@ data/
 *.pth
 *.pt
 *.onnx
+
+# 実行時にダウンロードするデータと出力画像（コミットしない）
+mne_misc_ecog/
+notebooks/*.png
