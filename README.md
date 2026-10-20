@@ -97,6 +97,7 @@ jupyter notebook
 |------|------|----------|-------|--------|
 | 2026-10-20 | スパースモデリングとグループラッソ入門 | [📓](notebooks/2026-10-20_group-lasso.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Murakami-Shoya/study-notebooks/blob/main/notebooks/2026-10-20_group-lasso.ipynb) | [🧵](https://app.notion.com/p/3f43834a206d81d98a78c761f713daea) |
 | 2026-10-20 | PyVista入門：CTボリュームと電極を3Dで描く | [📓](notebooks/2026-10-20_pyvista-basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Murakami-Shoya/study-notebooks/blob/main/notebooks/2026-10-20_pyvista-basics.ipynb) | [🧊](https://app.notion.com/p/3ff3834a206d811d970ce1a88219e2e0) |
+| 2026-10-20 | PyVista入門（実データ編：公開ECoGのCT・脳表・電極） | [📓](notebooks/2026-10-20_pyvista-real-data.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Murakami-Shoya/study-notebooks/blob/main/notebooks/2026-10-20_pyvista-real-data.ipynb) | [🧊](https://app.notion.com/p/3ff3834a206d811d970ce1a88219e2e0) |
 
 ## Google Colab での実行
 
